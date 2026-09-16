@@ -1,5 +1,5 @@
 // HelloWorld.cpp
-// Author: Mohammad Pivezhandi <pivezhandi@wayne.edu>
+// Author: Stanley Chacko <hi4626@wayne.edu>
 #include <iostream>
 using namespace std;
 
